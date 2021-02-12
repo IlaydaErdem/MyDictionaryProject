@@ -6,7 +6,7 @@ namespace MyDictionaryProject
     {
         static void Main(string[] args)
         {
-            MyDictionary<string,int> isimler = new MyDictionary<string, int>();
+            MyDictionary<int,string> isimler = new MyDictionary<int, string>();
             Console.WriteLine("İlayda",1);
             Console.WriteLine("Engin", 2);
             Console.WriteLine("Selin", 3);

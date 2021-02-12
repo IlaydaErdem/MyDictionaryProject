@@ -34,7 +34,6 @@ namespace MyDictionaryProject
                 items2[j] = tempArray2[j];
                 items2[items2.Length - 1] = item2;
             }
-                //items1[i] = tempArray1[i];
   
         }
 
